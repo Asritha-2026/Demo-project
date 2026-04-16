@@ -1,4 +1,4 @@
-# “AML Transaction Monitoring & Alert Detection System”
+# “AML TRANSACTION DETECTION AND ALERT GENERATION”
 
 INTRODUCTION
 
